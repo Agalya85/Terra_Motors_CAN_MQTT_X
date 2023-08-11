@@ -1,0 +1,14 @@
+gsmSim868.c:400:6:initGSMSIM868	40	static
+gsmSim868.c:1758:6:updateHttpDataLength	32	dynamic
+gsmSim868.c:1891:6:initHTTPURLforImmobilizer	24	static
+gsmSim868.c:1917:6:restoreHTTPURLforData	16	static
+gsmSim868.c:1963:6:sendSystemConfigurationSMS	0	static
+gsmSim868.c:2051:6:updatePhoneNumber	24	static
+gsmSim868.c:2113:6:syncrtcwithNetworkTime	24	static
+gsmSim868.c:2171:10:updateHTTPReadLength	24	static
+gsmSim868.c:2237:6:verifyImmobilizerCommand	16	static
+gsmSim868.c:2308:6:initHTTPURLforFOTA	16	static
+gsmSim868.c:2325:6:Diagnostic	8	static
+gsmSim868.c:2330:6:BootUpdateFailed	0	static
+gsmSim868.c:763:6:sendGSMCommand	16	static
+gsmSim868.c:503:6:operateGSMSIM868	4456	static

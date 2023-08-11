@@ -1,0 +1,9 @@
+user_flash.c:96:6:initFWSelection	8	static,ignoring_inline_asm
+user_flash.c:151:6:FLASH_If_Init	8	static
+user_flash.c:198:10:FLASH_If_Write	32	static
+user_flash.c:302:10:GetPage	0	static
+user_flash.c:310:11:FLASH_If_Erase	24	static
+user_flash.c:401:22:getNewFirmwareStorageLocation	0	static
+user_flash.c:177:10:WriteDatatoFlash	16	static
+user_flash.c:539:10:EraseSinglePage	16	static
+user_flash.c:458:10:flashWriteBootSection	8	static

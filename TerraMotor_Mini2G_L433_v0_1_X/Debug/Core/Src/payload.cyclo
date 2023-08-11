@@ -1,0 +1,7 @@
+payload.c:270:6:updateSystemParameters	1
+payload.c:282:6:updateCanPayload	2
+payload.c:357:6:SperateGPSString	8
+payload.c:467:6:CANIDPrase	2
+payload.c:480:6:PaylodTime	1
+payload.c:122:8:getMachineDataString	7
+payload.c:404:8:getDiagDataString	5

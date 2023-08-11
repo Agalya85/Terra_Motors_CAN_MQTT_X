@@ -1,0 +1,6 @@
+user_can.c:168:6:canFilterConfig	8	static
+user_can.c:305:6:HAL_CAN_RxFifo0MsgPendingCallback	8	static
+user_can.c:368:6:HAL_CAN_ErrorCallback	8	static
+user_can.c:375:6:HAL_CAN_TxMailbox0CompleteCallback	0	static
+user_can.c:402:10:isCommandIdConfigured	0	static
+user_can.c:454:6:parseCanMessageQueue	40	static

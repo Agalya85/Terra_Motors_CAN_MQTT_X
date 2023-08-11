@@ -1,0 +1,7 @@
+user_rtc.c:112:10:DecimalToBCD	0	static
+user_rtc.c:130:10:BCDToDecimal	0	static
+user_rtc.c:85:6:getrtcStamp	16	static
+user_rtc.c:148:6:updateElapsedTime	16	static
+user_rtc.c:215:10:rtcreadbackupreg	48	static
+user_rtc.c:328:6:syncRTCGPS	24	static
+user_rtc.c:388:6:Get_Time_Date	16	static

@@ -1,0 +1,9 @@
+payload.c:274:6:updateSystemParameters	0	static
+payload.c:286:6:updateCanPayload	48	static
+payload.c:361:6:SperateGPSString	8	static
+payload.c:597:6:CANIDPrase	32	static
+payload.c:610:6:PaylodTime	40	static
+payload.c:124:8:getMachineDataString	24	static
+payload.c:653:6:updateInputVoltage	16	static
+payload.c:475:6:DiagnosticString	48	static
+payload.c:408:8:getDiagDataString	24	static

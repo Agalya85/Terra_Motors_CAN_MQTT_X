@@ -1,0 +1,9 @@
+user_flash.c:96:6:initFWSelection	4
+user_flash.c:151:6:FLASH_If_Init	1
+user_flash.c:198:10:FLASH_If_Write	11
+user_flash.c:177:10:WriteDatatoFlash	1
+user_flash.c:300:10:GetPage	1
+user_flash.c:308:11:FLASH_If_Erase	5
+user_flash.c:399:22:getNewFirmwareStorageLocation	5
+user_flash.c:533:10:EraseSinglePage	2
+user_flash.c:456:10:flashWriteBootSection	10

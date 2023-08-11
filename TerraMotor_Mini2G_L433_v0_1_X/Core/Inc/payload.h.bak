@@ -1,0 +1,25 @@
+/*
+ * payload.h
+ *
+ *  Created on: Apr 19, 2021
+ *      Author: admin
+ */
+
+#ifndef INC_PAYLOAD_H_
+#define INC_PAYLOAD_H_
+
+#define START_OF_FRAME			"*"									/* Payload SOF Character */
+#define END_OF_FRAME			"#"									/* Payload EOF Character */
+#define FIRMWARE_VER			"v1.0"								/* Firmware Version  */
+
+/* Payload Funtion Prototypes */
+void updateSystemParameters(void);
+char * getMachineDataString(void);
+void updateCanPayload(uint32_t data ,char * systemPayload );
+void updateTelInfo(uint32_t data ,char * systemPayload);
+void updateTelVersion(uint32_t data ,char * systemPayload);
+void SperateGPSString(void);
+char * getDiagDataString(void);
+void CANIDPrase(char * systemPayload);
+void PaylodTime(char * systemPayload);
+#endif /* INC_PAYLOAD_H_ */
